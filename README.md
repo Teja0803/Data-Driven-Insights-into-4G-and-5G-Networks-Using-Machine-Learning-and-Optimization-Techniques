@@ -7,6 +7,7 @@ Code file: https://github.com/Teja0803/Data-Driven-Insights-into-4G-and-5G-Netwo
 
 ### Dataset Description:
 The 4G dataset contains extensive drive-test measurements collected during mobile network performance assessments. It includes over 500,000 rows of observations with features related to signal strength, quality metrics (e.g., SINR, RSRP, RSRQ), GPS coordinates, mobility information (speed, distance), and cell configuration details. Due to its raw nature, it contains missing values and variability, making it well-suited for preprocessing, exploratory data analysis, clustering, and unsupervised learning tasks. The dataset is ideal for identifying patterns in signal behavior and network coverage zones.
+
 Link: https://github.com/Teja0803/Data-Driven-Insights-into-4G-and-5G-Networks-Using-Machine-Learning-and-Optimization-Techniques/blob/main/4G%20-%20Passive%20measurements.zip
 
 The 5G dataset is a structured and cleaner collection of radio signal measurements focused on 5G New Radio (NR) performance. It includes features related to signal strength and quality (e.g., SSS-SINR, PBCH-RSRQ), transmission parameters, and estimated distances from the base station. The dataset is large-scale and well-distributed across different signal conditions, which supports both binary and multi-class classification tasks. It is ideal for evaluating signal quality and predicting network performance using supervised learning algorithms.
